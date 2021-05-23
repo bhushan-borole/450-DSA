@@ -31,7 +31,8 @@ now = datetime.datetime.now().date()
 op = ''
 
 for key in totals.keys():
-    op += f'{key}: {count[key]}/{totals[key]}\n'
+    if key in count:
+        op += f'{key}: {count[key]}/{totals[key]}\n'
 
 final_output = f'''
 # 450 DSA
