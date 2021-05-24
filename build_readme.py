@@ -35,13 +35,7 @@ def update_root_readme(path):
         if key in count:
             op += f'{key}: {count[key]}/{totals[key]}\n'
 
-    final_output = f'''
-    # 450 DSA
-
-    {op}
-
-    Last Update on {now}.
-    '''
+    final_output = f'# 450 DSA\n{op}\nLast Update on {now}.'
 
 
     with open('README.md', 'w+') as f:
