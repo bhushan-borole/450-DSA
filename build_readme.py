@@ -33,7 +33,7 @@ def update_root_readme(path):
 
     for key in totals.keys():
         if key in count:
-            op += f'{key}: {count[key]}/{totals[key]}\n'
+            op += f'{key}: {count[key]}/{totals[key]}  '
 
     final_output = f'# 450 DSA\n{op}\nLast Update on {now}.'
 
