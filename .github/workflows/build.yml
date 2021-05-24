@@ -32,8 +32,7 @@ jobs:
           architecture: x64
       - name: Update README
         run: |-
-          python build_readme.py
-          cat README.md
+          python ./github/scripts/build_readme.py
 
       # Runs a set of commands using the runners shell
       - name: Commit and push if changed
@@ -42,5 +41,5 @@ jobs:
           git config --global user.email "borolebhushan8@gmail.com"
           git config --global user.name "bhushan-borole"
           git add -A
-          git commit -m "Updated content" || exit 0
+          git commit -m "Updated content in README" || exit 0
           git push
