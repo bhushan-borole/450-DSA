@@ -1,7 +1,5 @@
-
-    # 450 DSA
-
-    Array: 2/36
+# 450 DSA
+Array: 2/36
 Matrix: 0/10
 String: 0/43
 Searching & Sorting: 0/36
@@ -17,6 +15,4 @@ Trie: 0/6
 Dynamic Programming: 0/60
 Bit Manipulation: 0/10
 
-
-    Last Update on 2021-05-24.
-    
+Last Update on 2021-05-24.
