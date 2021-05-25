@@ -1,6 +1,6 @@
 # String
 
-- [ ] [Reverse a String](https://leetcode.com/problems/reverse-string/)                                 
+- [x] [Reverse a String](https://leetcode.com/problems/reverse-string/)                                 
 - [ ] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                                                                                           
 - [ ] [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                                                                                         
 - [ ] Why strings are immutable in Java?                                                                                                                                                                           
