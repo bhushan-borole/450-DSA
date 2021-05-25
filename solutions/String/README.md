@@ -1,8 +1,8 @@
 # String
 
 - [x] [Reverse a String](https://leetcode.com/problems/reverse-string/)                                 
-- [ ] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                                                                                           
-- [ ] [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                                                                                         
+- [x] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)                                                                                           
+- [x] [Find Duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)                                                                                         
 - [ ] Why strings are immutable in Java?                                                                                                                                                                           
 - [ ] [Write a Code to check whether one string is a rotation of another](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)                                                
 - [ ] [Write a Program to check whether a string is a valid shuffle of two strings or not](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)                                     
