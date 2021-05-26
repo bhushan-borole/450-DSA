@@ -20,4 +20,4 @@
 |[Bit Manipulation](./solutions/Bit%20Manipulation)|0|10|0.0|
 
 
-### Last Update on 2021-05-25.
+### Last Update on 2021-05-26.
