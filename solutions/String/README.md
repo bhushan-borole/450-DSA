@@ -9,7 +9,7 @@
 - [x] [Count and Say problem](https://leetcode.com/problems/count-and-say/)                                                                                                                                        
 - [x] [Write a program to find the longest Palindrome in a string.\[ Longest palindromic Substring\]](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)                                
 - [ ] [Find Longest Recurring Subsequence in String](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)                                                                                  
-- [ ] [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                                                                                                              
+- [x] [Print all Subsequences of a string.](https://www.geeksforgeeks.org/print-subsequences-string/)                                                                                                              
 - [ ] [Print all the permutations of the given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)                                                                               
 - [ ] [Split the Binary string into two substring with equal 0’s and 1’s](https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/)                                   
 - [ ] [Word Wrap Problem \[VERY IMP\].](https://practice.geeksforgeeks.org/problems/word-wrap/0)                                                                                                                   

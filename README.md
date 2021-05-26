@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|:---:|
 |[Array](./solutions/Array)|2|36|5.6|
 |[Matrix](./solutions/Matrix)|0|10|0.0|
-|[String](./solutions/String)|8|43|18.6|
+|[String](./solutions/String)|9|43|20.9|
 |[Searching & Sorting](./solutions/Searching%20%26%20Sorting)|0|36|0.0|
 |[Linked List](./solutions/Linked%20List)|0|36|0.0|
 |[Binary Trees](./solutions/Binary%20Trees)|0|35|0.0|
