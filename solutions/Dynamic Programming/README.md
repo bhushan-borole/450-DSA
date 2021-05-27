@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-- [ ] [Coin ChangeProblem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)                                                                                                                             
+- [x] [Coin ChangeProblem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)                                                                                                                             
 - [ ] [Binomial CoefficientProblem](https://practice.geeksforgeeks.org/problems/ncr1019/1)
 - [ ] [Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)                                                                                                                                            
 - [ ] [Permutation CoefficientProblem](https://www.geeksforgeeks.org/permutation-coefficient/)                                                                                                                                     
