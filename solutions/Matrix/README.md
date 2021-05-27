@@ -7,6 +7,6 @@
 - [ ] [Print elements in sorted order using row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0)
 - [ ] [Maximum size rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 - [ ] [Find a specific pair in matrix](https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/)
-- [ ] [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
+- [x] [Rotate matrix by 90 degrees](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
 - [ ] [Kth smallest element in a row-cpumn wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
-- [ ] [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)
+- [x] [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)
