@@ -1,5 +1,5 @@
 def traverse(matrix):
-    a=[]
+    a = []
     while len(matrix)>0:
         a += list(matrix[0])
         matrix = matrix[1:][:]
