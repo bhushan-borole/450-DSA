@@ -3,7 +3,7 @@
 
 |Category|# completed ps|# total ps|% complete|
 |:---:|:---:|:---:|:---:|
-|[Array](./solutions/Array)|5|36|13.9|
+|[Array](./solutions/Array)|6|36|16.7|
 |[Matrix](./solutions/Matrix)|4|10|40.0|
 |[String](./solutions/String)|9|43|20.9|
 |[Searching & Sorting](./solutions/Searching%20%26%20Sorting)|0|36|0.0|
@@ -20,4 +20,4 @@
 |[Bit Manipulation](./solutions/Bit%20Manipulation)|0|10|0.0|
 
 
-### Last Update on 2021-05-28.
+### Last Update on 2021-05-29.
