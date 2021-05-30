@@ -10,7 +10,7 @@
 - [x] [Find Largest sum contiguous Subarray \[V. IMP\]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                                                                                                
 - [ ] [Minimise the maximum difference between heights \[V.IMP\]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                                                                               
 - [ ] [Minimum no. of Jumps to reach end of an array](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)                                                                                            
-- [ ] [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                                                                                                            
+- [x] [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                                                                                                            
 - [ ] [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                                                                                     
 - [x] [Kadane's Algo \[V.V.V.V.V IMP\]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                                                                                                                
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                                                                                 
