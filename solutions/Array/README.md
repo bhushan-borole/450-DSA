@@ -13,7 +13,7 @@
 - [ ] [Find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)                                                                                                            
 - [ ] [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)                                                                                     
 - [x] [Kadane's Algo \[V.V.V.V.V IMP\]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                                                                                                                
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                                                                                 
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                                                                                 
 - [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                                                                                               
 - [ ] [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)                                                                                                                               
 - [x] [Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                                                                                 
