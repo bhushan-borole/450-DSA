@@ -5,7 +5,7 @@
 - [x] [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
 - [x] [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
 - [x] [Move all the negative elements to one side of the array](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
-- [ ] [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
+- [x] [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
 - [x] [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)                                                                          
 - [x] [Find Largest sum contiguous Subarray \[V. IMP\]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)                                                                                                
 - [ ] [Minimise the maximum difference between heights \[V.IMP\]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)                                                                               
