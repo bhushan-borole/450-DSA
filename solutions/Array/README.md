@@ -22,7 +22,7 @@
 - [ ] [Rearrange the array in alternating positive and negative items with O(1) extra space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)                         
 - [ ] [Find if there is any subarray with sum equal to 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)                                                                                            
 - [ ] [Find factorial of a large number](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0)                                                                                                     
-- [ ] [find maximum product subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                                                                                                       
+- [x] [find maximum product subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)                                                                                                       
 - [ ] [Find longest coinsecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)                                                                                            
 - [ ] [Given an array of size n and a number k, fin all elements that appear more than " n/k " times.](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
 - [ ] [Maximum profit by buying and selling a share atmost twice](https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/)                                                            
