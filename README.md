@@ -3,7 +3,7 @@
 
 |Category|# completed ps|# total ps|% complete|
 |:---:|:---:|:---:|:---:|
-|[Array](./solutions/Array)|8|36|22.2|
+|[Array](./solutions/Array)|9|36|25.0|
 |[Matrix](./solutions/Matrix)|8|10|80.0|
 |[String](./solutions/String)|9|43|20.9|
 |[Searching & Sorting](./solutions/Searching%20%26%20Sorting)|0|36|0.0|
