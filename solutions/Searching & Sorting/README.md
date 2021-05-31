@@ -1,9 +1,9 @@
 # Searching & Sorting
 
-- [ ] [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
-- [ ] [Find a Fixed Point (Value equal to index) in a given array](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1)                   
-- [ ] [Search in a rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                            
-- [ ] [square root of an integer](https://practice.geeksforgeeks.org/problems/count-squares3649/1)                                                                 
+- [x] [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
+- [x] [Find a Fixed Point (Value equal to index) in a given array](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1)                   
+- [x] [Search in a rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                            
+- [x] [square root of an integer](https://practice.geeksforgeeks.org/problems/count-squares3649/1)                                                                 
 - [ ] [Maximum and minimum of an array using minimum number of comparisons](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1)                     
 - [ ] [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/)                        
 - [ ] [Find the repeating and the missing](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)                                           

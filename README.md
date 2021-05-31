@@ -6,7 +6,7 @@
 |[Array](./solutions/Array)|13|36|36.1|
 |[Matrix](./solutions/Matrix)|8|10|80.0|
 |[String](./solutions/String)|9|43|20.9|
-|[Searching & Sorting](./solutions/Searching%20%26%20Sorting)|0|36|0.0|
+|[Searching & Sorting](./solutions/Searching%20%26%20Sorting)|4|36|11.1|
 |[Linked List](./solutions/Linked%20List)|0|36|0.0|
 |[Binary Trees](./solutions/Binary%20Trees)|0|35|0.0|
 |[Binary Search Trees](./solutions/Binary%20Search%20Trees)|0|22|0.0|
@@ -20,4 +20,4 @@
 |[Bit Manipulation](./solutions/Bit%20Manipulation)|0|10|0.0|
 
 
-### Last Update on 2021-05-30.
+### Last Update on 2021-05-31.
