@@ -1,9 +1,9 @@
 # Dynamic Programming
 
 - [x] [Coin ChangeProblem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)                                                                                                                             
-- [ ] [Binomial CoefficientProblem](https://practice.geeksforgeeks.org/problems/ncr1019/1)
+- [x] [Binomial CoefficientProblem](https://practice.geeksforgeeks.org/problems/ncr1019/1)
 - [x] [Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)                                                                                                                                            
-- [ ] [Permutation CoefficientProblem](https://www.geeksforgeeks.org/permutation-coefficient/)                                                                                                                                     
+- [x] [Permutation CoefficientProblem](https://www.geeksforgeeks.org/permutation-coefficient/)                                                                                                                                     
 - [ ] [Program for nth Catalan Number](https://www.geeksforgeeks.org/program-nth-catalan-number/)                                                                                                                                  
 - [ ] [Matrix Chain Multiplication ](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)                                                                                                                              
 - [ ] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)                                                                                                                                             
