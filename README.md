@@ -16,8 +16,8 @@
 |[Heap](./solutions/Heap)|0|18|0.0|
 |[Graph](./solutions/Graph)|0|44|0.0|
 |[Trie](./solutions/Trie)|0|6|0.0|
-|[Dynamic Programming](./solutions/Dynamic%20Programming)|1|60|1.7|
+|[Dynamic Programming](./solutions/Dynamic%20Programming)|3|60|5.0|
 |[Bit Manipulation](./solutions/Bit%20Manipulation)|0|10|0.0|
 
 
-### Last Update on 2021-05-31.
+### Last Update on 2021-06-07.
