@@ -16,7 +16,7 @@
 |[Heap](./solutions/Heap)|0|18|0.0|
 |[Graph](./solutions/Graph)|0|44|0.0|
 |[Trie](./solutions/Trie)|0|6|0.0|
-|[Dynamic Programming](./solutions/Dynamic%20Programming)|6|60|10.0|
+|[Dynamic Programming](./solutions/Dynamic%20Programming)|9|60|15.0|
 |[Bit Manipulation](./solutions/Bit%20Manipulation)|0|10|0.0|
 
 
